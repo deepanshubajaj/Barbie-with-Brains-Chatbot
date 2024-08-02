@@ -1,0 +1,14 @@
+README.md
+setup.cfg
+setup.py
+chatbot/__init__.py
+chatbot/constansts.py
+chatbot/mapper.py
+chatbot/version.py
+chatbotAI.egg-info/PKG-INFO
+chatbotAI.egg-info/SOURCES.txt
+chatbotAI.egg-info/dependency_links.txt
+chatbotAI.egg-info/requires.txt
+chatbotAI.egg-info/top_level.txt
+chatbot/spellcheck/__init__.py
+chatbot/substitution/__init__.py
