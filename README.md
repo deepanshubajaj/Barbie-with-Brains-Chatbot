@@ -1,6 +1,3 @@
-[![Downloads](https://pepy.tech/badge/chatbotai)](https://pepy.tech/project/chatbotai)
-[![PyPI version](https://badge.fury.io/py/chatbotAI.svg)](https://badge.fury.io/py/chatbotAI)
-
 <h1 align="center">Barbie with Brain Chatbot</h1>
 
 # ChatBotAI
