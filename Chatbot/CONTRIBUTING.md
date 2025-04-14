@@ -4,7 +4,7 @@ If you'd like to help us improve and extend this project, then we welcome your c
 
 Below you will find some basic steps required to be able to contribute to the project. If
 you have any questions about this process or any other aspect of contributing to a Bloomberg open
-source project, feel free to send an email to ahmadfaizalbh726@gmail.com and I'll get your questions
+source project, feel free to send an email to deepanshu.bajaj.portfolio@gmail.com and I'll get your questions
 answered as quickly as we can.
 
 ## Contribution Licensing

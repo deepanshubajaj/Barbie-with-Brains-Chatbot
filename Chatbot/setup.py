@@ -19,9 +19,9 @@ for language in LANGUAGE_SUPPORT:
 setup(
     name='chatbotAI',
     version=version,
-    author="Ahmad Faizal B H",
-    author_email="ahmadfaizalbh726@gmail.com",
-    url="https://github.com/ahmadfaizalbh/Chatbot",
+    author="Deepanshu Bajaj",
+    author_email="deepanshu.bajaj.portfolio@gmail.com",
+    url="https://github.com/deepanshubajaj/Barbie-with-Brains-Chatbot",
     description="A chatbot AI engine is a chatbot builder platform that provids both bot intelligence and"
                 " chat handler with minimal codding",
     long_description=long_description,

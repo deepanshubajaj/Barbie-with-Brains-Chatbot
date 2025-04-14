@@ -2,9 +2,9 @@ Metadata-Version: 1.0
 Name: chatbotAI
 Version: 0.2.0.1
 Summary: A chatbot AI engine is a chatbot builder platform that provids both bot intelligence and chat handler with minimal codding
-Home-page: https://github.com/ahmadfaizalbh/Chatbot
-Author: Ahmad Faizal B H
-Author-email: ahmadfaizalbh726@gmail.com
+Home-page: https://github.com/deepanshubajaj/Barbie-with-Brains-Chatbot
+Author: Deepanshu Bajaj
+Author-email: deepanshu.bajaj.portfolio@gmail.com
 License: MIT
 Description-Content-Type: UNKNOWN
 Description: Chatbot
@@ -30,7 +30,7 @@ Description: Chatbot
         
         .. code:: sh
         
-            git clone https://github.com/ahmadfaizalbh/Chatbot.git
+            git clone https://github.com/deepanshubajaj/Barbie-with-Brains-Chatbot.git
             cd Chatbot
             python setup.py install
         
@@ -56,27 +56,6 @@ Description: Chatbot
             call = multiFunctionCall({"whoIs":whoIs})
             first_question="Hi, how are you?"
             Chat("examples/Example.template", reflections,call=call).converse(first_question)
-        
-        For Detail on how to build Facebook messenger bot checkout `Facebook
-        Integration.ipynb <https://github.com/ahmadfaizalbh/Meetup-Resources/blob/master/Facebook%20Integration.ipynb>`__
-        
-        For Jupyter notebook Chatbot checkout `Infobot built using
-        NLTK-Chatbot <https://github.com/ahmadfaizalbh/Meetup-Resources/blob/master/How%20to%20build%20a%20bot.ipynb>`__
-        
-        Sample Apps
-        ^^^^^^^^^^^
-        
-        1. A sample facebook messenger bot built using
-           `messengerbot <https://github.com/geeknam/messengerbot/pulls>`__,
-           `Django <https://github.com/django/django>`__ and
-           `NLTK-Chatbot <#chatbot>`__ is available here `Facebook messenger
-           bot <https://github.com/ahmadfaizalbh/FacebookMessengerBot/>`__
-        2. A sample microsoft bot built using `Microsoft Bot Connector Rest API
-           -
-           v3.0 <https://docs.botframework.com/en-us/restapi/connector/#navtitle>`__,
-           `Django <https://github.com/django/django>`__ and
-           `NLTK-Chatbot <#chatbot>`__ is available here `Micosoft
-           Chatbot <https://github.com/ahmadfaizalbh/Microsoft-chatbot/>`__
         
         List of feature supported in bot template
         -----------------------------------------
