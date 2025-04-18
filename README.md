@@ -276,3 +276,23 @@ you can have any number of key value pair and all key value pair will override d
   <img src="Snaps/ChatBot AI.png" alt="App Look4"  />
 </p>
 
+---
+
+## 🤝 Contributing
+
+Thank you for your interest in contributing to this project!  
+I welcome contributions from the community.
+
+- You are free to use, modify, and redistribute this code under the terms of the MIT License.
+- If you'd like to contribute, please **open an issue** or **submit a pull request**.
+- All contributions will be reviewed and approved by the author — **Deepanshu Bajaj**.
+
+---
+
+## 📃 License
+
+This project is licensed under the [MIT License](./LICENSE).  
+You are free to use this project for personal, educational, or commercial purposes — just make sure to provide proper attribution.
+
+> **Clarification:** Commercial use includes, but is not limited to, use in products,  
+> services, or activities intended to generate revenue, directly or indirectly.
